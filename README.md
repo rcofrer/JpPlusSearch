@@ -1,2 +1,2 @@
 # JpPlusSearch
-Python implementations for Jump point plus search for CodinGame
+Python implementations for Jump point + search for CodinGame
